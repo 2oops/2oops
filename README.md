@@ -1,6 +1,8 @@
-### Hello 2oops 💄
+![pic](./images/on_the_way.jpg)
 
-Happy Coding
+<h2 style="text-align: center">A journey of 1000 miles begins with a single step.</h2>
+
+<h3 style="text-align: center">Happy Coding ❤️</h3>
 
 <!--
 **2oops/2oops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
